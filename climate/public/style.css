@@ -1,0 +1,42 @@
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+  color: teal;
+  font-style: oblique;
+}
+
+.input-group {
+  margin: 20px 0px;
+}
+
+svg {
+  height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div {
+  height: 200px;
+  width: 250px;
+}
+
+.clima {
+  color: skyblue;
+  padding-top: 16px;
+  height: auto;
+  text-align: center;
+  text-shadow: 1px;
+  font-weight: bold;
+  font-size: 2rem;
+  font-style: italic;
+  font-family: 'Permanent Marker', cursive;
+  margin-top: 10px;
+}
+  
+p {
+  color: cadetblue;
+  font-size: 19px;
+  letter-spacing: 4px;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  text-shadow: 1px;
+  font-style: italic;
+}
